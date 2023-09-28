@@ -1,2 +1,17 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Desafio DIO IMC
+
+### O desafio consiste em criar uma calculadora de IMC em dart. 
+
+
+## Checklist do Desafio
+* Criar classe Pessoa (Nome / Peso / Altura)​
+
+* Ler dados do terminal​
+
+* Tratar exceções​
+
+* Calcular IMC ​
+
+* Printar na tela o resultado do cálculo​
+
+* Testes​
